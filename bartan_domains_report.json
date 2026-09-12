@@ -1,0 +1,4396 @@
+{
+  "available": [
+    {
+      "tld": ".college",
+      "domain": "bartan.college",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,717,000",
+      "renew_price": "18,294,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".info",
+      "domain": "bartan.info",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,805,000",
+      "renew_price": "8,038,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".monster",
+      "domain": "bartan.monster",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "669,000",
+      "renew_price": "5,232,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".art",
+      "domain": "bartan.art",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,328,000",
+      "renew_price": "7,339,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".me",
+      "domain": "bartan.me",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,920,000",
+      "renew_price": "6,063,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".site",
+      "domain": "bartan.site",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "918,000",
+      "renew_price": "10,379,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".rent",
+      "domain": "bartan.rent",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,717,000",
+      "renew_price": "18,294,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".click",
+      "domain": "bartan.click",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "910,000",
+      "renew_price": "3,753,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".tech",
+      "domain": "bartan.tech",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,328,000",
+      "renew_price": "18,493,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".space",
+      "domain": "bartan.space",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "656,000",
+      "renew_price": "9,435,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".website",
+      "domain": "bartan.website",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "656,000",
+      "renew_price": "7,548,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".ac",
+      "domain": "bartan.ac",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "11,004,000",
+      "renew_price": "16,228,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".baby",
+      "domain": "bartan.baby",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,717,000",
+      "renew_price": "19,919,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".cyou",
+      "domain": "bartan.cyou",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "924,000",
+      "renew_price": "5,819,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".accountants",
+      "domain": "bartan.accountants",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,912,000",
+      "renew_price": "33,337,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".icu",
+      "domain": "bartan.icu",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "656,000",
+      "renew_price": "5,819,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".fun",
+      "domain": "bartan.fun",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "656,000",
+      "renew_price": "11,322,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".auction",
+      "domain": "bartan.auction",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,160,000",
+      "renew_price": "10,463,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".agency",
+      "domain": "bartan.agency",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,328,000",
+      "renew_price": "8,649,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".apartments",
+      "domain": "bartan.apartments",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "16,124,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".band",
+      "domain": "bartan.band",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,704,000",
+      "renew_price": "8,754,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".academy",
+      "domain": "bartan.academy",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,956,000",
+      "renew_price": "13,073,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".associates",
+      "domain": "bartan.associates",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,956,000",
+      "renew_price": "10,997,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".autos",
+      "domain": "bartan.autos",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "669,000",
+      "renew_price": "5,232,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".archi",
+      "domain": "bartan.archi",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,628,000",
+      "renew_price": "29,123,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".bingo",
+      "domain": "bartan.bingo",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "15,054,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".bid",
+      "domain": "bartan.bid",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,000,000",
+      "renew_price": "2,289,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".bio",
+      "domain": "bartan.bio",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "20,652,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".actor",
+      "domain": "bartan.actor",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "12,517,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".bargains",
+      "domain": "bartan.bargains",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,956,000",
+      "renew_price": "8,439,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".bike",
+      "domain": "bartan.bike",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "11,165,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".black",
+      "domain": "bartan.black",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,704,000",
+      "renew_price": "18,765,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".blog",
+      "domain": "bartan.blog",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,664,000",
+      "renew_price": "7,213,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".bond",
+      "domain": "bartan.bond",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "924,000",
+      "renew_price": "5,819,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".boutique",
+      "domain": "bartan.boutique",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "992,000",
+      "renew_price": "9,341,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".blue",
+      "domain": "bartan.blue",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,292,000",
+      "renew_price": "7,077,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".business",
+      "domain": "bartan.business",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "992,000",
+      "renew_price": "5,546,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".boats",
+      "domain": "bartan.boats",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "669,000",
+      "renew_price": "5,232,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".capital",
+      "domain": "bartan.capital",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "20,118,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".camp",
+      "domain": "bartan.camp",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,672,000",
+      "renew_price": "17,717,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".camera",
+      "domain": "bartan.camera",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,956,000",
+      "renew_price": "16,669,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".care",
+      "domain": "bartan.care",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,956,000",
+      "renew_price": "12,874,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".buzz",
+      "domain": "bartan.buzz",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "992,000",
+      "renew_price": "9,750,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".cards",
+      "domain": "bartan.cards",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "992,000",
+      "renew_price": "11,165,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".cam",
+      "domain": "bartan.cam",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "756,000",
+      "renew_price": "5,578,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".cab",
+      "domain": "bartan.cab",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,292,000",
+      "renew_price": "9,089,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".careers",
+      "domain": "bartan.careers",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,704,000",
+      "renew_price": "20,327,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".center",
+      "domain": "bartan.center",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,328,000",
+      "renew_price": "9,215,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".builders",
+      "domain": "bartan.builders",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,832,000",
+      "renew_price": "10,096,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".cash",
+      "domain": "bartan.cash",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,016,000",
+      "renew_price": "11,165,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".ceo",
+      "domain": "bartan.ceo",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,357,000",
+      "renew_price": "39,837,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".chat",
+      "domain": "bartan.chat",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "13,115,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".church",
+      "domain": "bartan.church",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,672,000",
+      "renew_price": "16,386,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".cloud",
+      "domain": "bartan.cloud",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "824,000",
+      "renew_price": "7,328,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".clothing",
+      "domain": "bartan.clothing",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "9,341,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".claims",
+      "domain": "bartan.claims",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "18,346,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".city",
+      "domain": "bartan.city",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,832,000",
+      "renew_price": "8,125,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".coach",
+      "domain": "bartan.coach",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "21,065,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".coffee",
+      "domain": "bartan.coffee",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "12,308,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".cheap",
+      "domain": "bartan.cheap",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "10,400,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".community",
+      "domain": "bartan.community",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "13,157,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".codes",
+      "domain": "bartan.codes",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,832,000",
+      "renew_price": "20,327,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".charity",
+      "domain": "bartan.charity",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,024,000",
+      "renew_price": "8,565,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".clinic",
+      "domain": "bartan.clinic",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "18,440,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".computer",
+      "domain": "bartan.computer",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "7,644,000",
+      "renew_price": "11,165,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".cafe",
+      "domain": "bartan.cafe",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,832,000",
+      "renew_price": "14,666,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".cool",
+      "domain": "bartan.cool",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "13,115,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".consulting",
+      "domain": "bartan.consulting",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "8,904,000",
+      "renew_price": "15,442,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".contractors",
+      "domain": "bartan.contractors",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "9,928,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".cruises",
+      "domain": "bartan.cruises",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "16,029,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".company",
+      "domain": "bartan.company",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "992,000",
+      "renew_price": "5,689,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".dance",
+      "domain": "bartan.dance",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,016,000",
+      "renew_price": "7,842,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".date",
+      "domain": "bartan.date",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,000,000",
+      "renew_price": "2,289,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".coupons",
+      "domain": "bartan.coupons",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "992,000",
+      "renew_price": "15,558,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".construction",
+      "domain": "bartan.construction",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,612,000",
+      "renew_price": "11,165,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".directory",
+      "domain": "bartan.directory",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,832,000",
+      "renew_price": "7,810,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".digital",
+      "domain": "bartan.digital",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "992,000",
+      "renew_price": "11,731,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".discount",
+      "domain": "bartan.discount",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,832,000",
+      "renew_price": "8,345,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".direct",
+      "domain": "bartan.direct",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "12,004,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".delivery",
+      "domain": "bartan.delivery",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,000,000",
+      "renew_price": "17,717,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".democrat",
+      "domain": "bartan.democrat",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "9,173,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".creditcard",
+      "domain": "bartan.creditcard",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "45,864,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".dog",
+      "domain": "bartan.dog",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,328,000",
+      "renew_price": "18,440,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".degree",
+      "domain": "bartan.degree",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "14,625,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".doctor",
+      "domain": "bartan.doctor",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "33,106,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".credit",
+      "domain": "bartan.credit",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,672,000",
+      "renew_price": "29,144,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".download",
+      "domain": "bartan.download",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,000,000",
+      "renew_price": "2,289,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".dating",
+      "domain": "bartan.dating",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,292,000",
+      "renew_price": "18,440,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".email",
+      "domain": "bartan.email",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "8,743,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".education",
+      "domain": "bartan.education",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "8,904,000",
+      "renew_price": "10,222,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".events",
+      "domain": "bartan.events",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,016,000",
+      "renew_price": "12,874,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".equipment",
+      "domain": "bartan.equipment",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "8,219,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".engineering",
+      "domain": "bartan.engineering",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,672,000",
+      "renew_price": "18,440,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".engineer",
+      "domain": "bartan.engineer",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,016,000",
+      "renew_price": "11,165,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".exchange",
+      "domain": "bartan.exchange",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,504,000",
+      "renew_price": "11,165,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".expert",
+      "domain": "bartan.expert",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,672,000",
+      "renew_price": "17,560,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".energy",
+      "domain": "bartan.energy",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,956,000",
+      "renew_price": "33,337,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".enterprises",
+      "domain": "bartan.enterprises",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,328,000",
+      "renew_price": "10,096,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".estate",
+      "domain": "bartan.estate",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "11,165,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".express",
+      "domain": "bartan.express",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,848,000",
+      "renew_price": "11,165,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".family",
+      "domain": "bartan.family",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "10,746,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".fan",
+      "domain": "bartan.fan",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,672,000",
+      "renew_price": "16,973,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".fail",
+      "domain": "bartan.fail",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "10,997,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".finance",
+      "domain": "bartan.finance",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,672,000",
+      "renew_price": "18,346,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".faith",
+      "domain": "bartan.faith",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,352,000",
+      "renew_price": "4,526,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".florist",
+      "domain": "bartan.florist",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "9,289,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".fish",
+      "domain": "bartan.fish",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "12,517,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".flights",
+      "domain": "bartan.flights",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "13,272,000",
+      "renew_price": "16,763,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".financial",
+      "domain": "bartan.financial",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,704,000",
+      "renew_price": "16,763,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".furniture",
+      "domain": "bartan.furniture",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "8,904,000",
+      "renew_price": "29,353,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".forsale",
+      "domain": "bartan.forsale",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "10,463,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".farm",
+      "domain": "bartan.farm",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,176,000",
+      "renew_price": "11,165,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".deals",
+      "domain": "bartan.deals",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,328,000",
+      "renew_price": "11,165,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".futbol",
+      "domain": "bartan.futbol",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "4,641,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".games",
+      "domain": "bartan.games",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "9,530,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".gives",
+      "domain": "bartan.gives",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,024,000",
+      "renew_price": "7,800,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".global",
+      "domain": "bartan.global",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "13,272,000",
+      "renew_price": "27,236,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".foundation",
+      "domain": "bartan.foundation",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,024,000",
+      "renew_price": "7,800,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".gifts",
+      "domain": "bartan.gifts",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "10,463,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".fitness",
+      "domain": "bartan.fitness",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "12,004,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".green",
+      "domain": "bartan.green",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,672,000",
+      "renew_price": "23,043,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".fund",
+      "domain": "bartan.fund",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,612,000",
+      "renew_price": "19,814,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".haus",
+      "domain": "bartan.haus",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "9,383,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".group",
+      "domain": "bartan.group",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,504,000",
+      "renew_price": "7,391,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".holiday",
+      "domain": "bartan.holiday",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "18,440,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".help",
+      "domain": "bartan.help",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,005,000",
+      "renew_price": "9,383,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".guide",
+      "domain": "bartan.guide",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,504,000",
+      "renew_price": "11,584,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".homes",
+      "domain": "bartan.homes",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "669,000",
+      "renew_price": "5,232,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".guru",
+      "domain": "bartan.guru",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "992,000",
+      "renew_price": "12,151,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".house",
+      "domain": "bartan.house",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,300,000",
+      "renew_price": "12,423,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".domains",
+      "domain": "bartan.domains",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "12,151,000",
+      "details": "RDAP 404",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".hockey",
+      "domain": "bartan.hockey",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "16,763,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".golf",
+      "domain": "bartan.golf",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,832,000",
+      "renew_price": "18,440,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".institute",
+      "domain": "bartan.institute",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,176,000",
+      "renew_price": "7,842,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".immo",
+      "domain": "bartan.immo",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "10,138,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".gold",
+      "domain": "bartan.gold",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "29,144,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".jewelry",
+      "domain": "bartan.jewelry",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "18,440,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".international",
+      "domain": "bartan.international",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "8,754,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".industries",
+      "domain": "bartan.industries",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,948,000",
+      "renew_price": "12,874,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".irish",
+      "domain": "bartan.irish",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "6,238,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".insure",
+      "domain": "bartan.insure",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "20,118,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".io",
+      "domain": "bartan.io",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "12,063,000",
+      "renew_price": "19,132,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".jetzt",
+      "domain": "bartan.jetzt",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,176,000",
+      "renew_price": "6,594,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".kitchen",
+      "domain": "bartan.kitchen",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "18,346,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".immobilien",
+      "domain": "bartan.immobilien",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "10,463,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".lease",
+      "domain": "bartan.lease",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "15,715,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".land",
+      "domain": "bartan.land",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,612,000",
+      "renew_price": "12,004,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".life",
+      "domain": "bartan.life",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "992,000",
+      "renew_price": "10,463,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".investments",
+      "domain": "bartan.investments",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "36,880,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".kaufen",
+      "domain": "bartan.kaufen",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "8,439,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".limited",
+      "domain": "bartan.limited",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "10,463,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".kim",
+      "domain": "bartan.kim",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "6,605,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".lighting",
+      "domain": "bartan.lighting",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "6,678,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".legal",
+      "domain": "bartan.legal",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "20,327,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".limo",
+      "domain": "bartan.limo",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "15,442,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".llc",
+      "domain": "bartan.llc",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "13,052,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".loan",
+      "domain": "bartan.loan",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,000,000",
+      "renew_price": "2,289,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".loans",
+      "domain": "bartan.loans",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "33,106,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".lol",
+      "domain": "bartan.lol",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "669,000",
+      "renew_price": "9,414,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".maison",
+      "domain": "bartan.maison",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,628,000",
+      "renew_price": "16,092,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".ltd",
+      "domain": "bartan.ltd",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "8,743,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".love",
+      "domain": "bartan.love",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,021,000",
+      "renew_price": "8,073,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".men",
+      "domain": "bartan.men",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,000,000",
+      "renew_price": "2,289,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".management",
+      "domain": "bartan.management",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "7,486,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".media",
+      "domain": "bartan.media",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,832,000",
+      "renew_price": "12,874,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".mba",
+      "domain": "bartan.mba",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "11,165,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".marketing",
+      "domain": "bartan.marketing",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "11,689,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".mobi",
+      "domain": "bartan.mobi",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,647,000",
+      "renew_price": "15,306,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".moda",
+      "domain": "bartan.moda",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "11,522,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".mortgage",
+      "domain": "bartan.mortgage",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "17,717,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".money",
+      "domain": "bartan.money",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "10,096,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".mom",
+      "domain": "bartan.mom",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "669,000",
+      "renew_price": "9,016,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".movie",
+      "domain": "bartan.movie",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "15,759,000",
+      "renew_price": "98,333,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".ninja",
+      "domain": "bartan.ninja",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "8,754,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".news",
+      "domain": "bartan.news",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,016,000",
+      "renew_price": "9,215,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".network",
+      "domain": "bartan.network",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,832,000",
+      "renew_price": "10,222,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".live",
+      "domain": "bartan.live",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "992,000",
+      "renew_price": "9,215,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".party",
+      "domain": "bartan.party",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,000,000",
+      "renew_price": "2,289,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".organic",
+      "domain": "bartan.organic",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "24,510,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".partners",
+      "domain": "bartan.partners",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,176,000",
+      "renew_price": "20,118,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".pet",
+      "domain": "bartan.pet",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "7,339,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".photography",
+      "domain": "bartan.photography",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "10,400,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".plumbing",
+      "domain": "bartan.plumbing",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "20,118,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".pictures",
+      "domain": "bartan.pictures",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "4,550,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".pizza",
+      "domain": "bartan.pizza",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "18,440,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".football",
+      "domain": "bartan.football",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "7,391,000",
+      "details": "RDAP 404",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".parts",
+      "domain": "bartan.parts",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,612,000",
+      "renew_price": "12,004,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".plus",
+      "domain": "bartan.plus",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,016,000",
+      "renew_price": "15,442,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".pink",
+      "domain": "bartan.pink",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "7,213,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".pics",
+      "domain": "bartan.pics",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "669,000",
+      "renew_price": "9,414,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".promo",
+      "domain": "bartan.promo",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "7,024,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".property",
+      "domain": "bartan.property",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "20,157,000",
+      "renew_price": "37,530,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".productions",
+      "domain": "bartan.productions",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "11,689,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".realty",
+      "domain": "bartan.realty",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "33,597,000",
+      "renew_price": "102,736,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".rentals",
+      "domain": "bartan.rentals",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,672,000",
+      "renew_price": "12,109,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".rehab",
+      "domain": "bartan.rehab",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "10,264,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".report",
+      "domain": "bartan.report",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,672,000",
+      "renew_price": "7,024,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".photos",
+      "domain": "bartan.photos",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "8,586,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".racing",
+      "domain": "bartan.racing",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,352,000",
+      "renew_price": "4,526,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".repair",
+      "domain": "bartan.repair",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,176,000",
+      "renew_price": "10,264,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".pro",
+      "domain": "bartan.pro",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,160,000",
+      "renew_price": "8,038,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".recipes",
+      "domain": "bartan.recipes",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,672,000",
+      "renew_price": "21,065,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".rest",
+      "domain": "bartan.rest",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "669,000",
+      "renew_price": "9,016,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".restaurant",
+      "domain": "bartan.restaurant",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,292,000",
+      "renew_price": "18,440,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".review",
+      "domain": "bartan.review",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,352,000",
+      "renew_price": "4,526,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".properties",
+      "domain": "bartan.properties",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,504,000",
+      "renew_price": "11,165,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".rocks",
+      "domain": "bartan.rocks",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,328,000",
+      "renew_price": "6,186,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".reviews",
+      "domain": "bartan.reviews",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,832,000",
+      "renew_price": "17,717,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".run",
+      "domain": "bartan.run",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,647,000",
+      "renew_price": "7,810,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".rip",
+      "domain": "bartan.rip",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,832,000",
+      "renew_price": "6,657,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".schule",
+      "domain": "bartan.schule",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "7,786,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".sale",
+      "domain": "bartan.sale",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,328,000",
+      "renew_price": "11,165,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".school",
+      "domain": "bartan.school",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "10,264,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".salon",
+      "domain": "bartan.salon",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "16,249,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".republican",
+      "domain": "bartan.republican",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "9,173,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".red",
+      "domain": "bartan.red",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "6,657,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".shopping",
+      "domain": "bartan.shopping",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "8,488,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".singles",
+      "domain": "bartan.singles",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,940,000",
+      "renew_price": "9,530,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".ski",
+      "domain": "bartan.ski",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "8,904,000",
+      "renew_price": "18,856,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".software",
+      "domain": "bartan.software",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,704,000",
+      "renew_price": "12,004,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".solar",
+      "domain": "bartan.solar",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "18,440,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".services",
+      "domain": "bartan.services",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,612,000",
+      "renew_price": "11,165,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".solutions",
+      "domain": "bartan.solutions",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,328,000",
+      "renew_price": "8,754,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".style",
+      "domain": "bartan.style",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,940,000",
+      "renew_price": "11,165,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".shoes",
+      "domain": "bartan.shoes",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "8,904,000",
+      "renew_price": "18,440,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".stream",
+      "domain": "bartan.stream",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,000,000",
+      "renew_price": "2,289,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".soccer",
+      "domain": "bartan.soccer",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "7,391,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".studio",
+      "domain": "bartan.studio",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,956,000",
+      "renew_price": "11,448,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".show",
+      "domain": "bartan.show",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "12,517,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".tax",
+      "domain": "bartan.tax",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "19,069,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".technology",
+      "domain": "bartan.technology",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,016,000",
+      "renew_price": "8,073,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".team",
+      "domain": "bartan.team",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,832,000",
+      "renew_price": "10,463,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".social",
+      "domain": "bartan.social",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,672,000",
+      "renew_price": "12,004,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".theater",
+      "domain": "bartan.theater",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "18,440,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".tips",
+      "domain": "bartan.tips",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "8,754,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".shiksha",
+      "domain": "bartan.shiksha",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "14,457,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".tires",
+      "domain": "bartan.tires",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "25,684,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".tienda",
+      "domain": "bartan.tienda",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "16,763,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".tools",
+      "domain": "bartan.tools",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,016,000",
+      "renew_price": "10,463,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".today",
+      "domain": "bartan.today",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "992,000",
+      "renew_price": "8,335,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".science",
+      "domain": "bartan.science",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,352,000",
+      "renew_price": "4,526,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".taxi",
+      "domain": "bartan.taxi",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,504,000",
+      "renew_price": "17,717,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".top",
+      "domain": "bartan.top",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "869,000",
+      "renew_price": "1,437,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".systems",
+      "domain": "bartan.systems",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,956,000",
+      "renew_price": "10,001,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".training",
+      "domain": "bartan.training",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,956,000",
+      "renew_price": "12,004,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".travel",
+      "domain": "bartan.travel",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,704,000",
+      "renew_price": "45,917,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".town",
+      "domain": "bartan.town",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "10,463,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".trade",
+      "domain": "bartan.trade",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,000,000",
+      "renew_price": "2,289,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".tours",
+      "domain": "bartan.tours",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "17,717,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".villas",
+      "domain": "bartan.villas",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "16,173,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".ventures",
+      "domain": "bartan.ventures",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "16,763,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".vin",
+      "domain": "bartan.vin",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,672,000",
+      "renew_price": "16,763,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".support",
+      "domain": "bartan.support",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,672,000",
+      "renew_price": "7,842,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".vote",
+      "domain": "bartan.vote",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "11,004,000",
+      "renew_price": "27,865,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".university",
+      "domain": "bartan.university",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "17,717,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".vision",
+      "domain": "bartan.vision",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "13,115,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".vacations",
+      "domain": "bartan.vacations",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "11,165,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".works",
+      "domain": "bartan.works",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,832,000",
+      "renew_price": "11,165,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".yachts",
+      "domain": "bartan.yachts",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "669,000",
+      "renew_price": "5,232,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".voyage",
+      "domain": "bartan.voyage",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,268,000",
+      "renew_price": "16,553,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".watch",
+      "domain": "bartan.watch",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "1,160,000",
+      "renew_price": "12,517,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".video",
+      "domain": "bartan.video",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "10,264,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".wtf",
+      "domain": "bartan.wtf",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "992,000",
+      "renew_price": "10,463,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".zone",
+      "domain": "bartan.zone",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "11,165,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".voto",
+      "domain": "bartan.voto",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "21,512,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".webcam",
+      "domain": "bartan.webcam",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,352,000",
+      "renew_price": "4,526,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".win",
+      "domain": "bartan.win",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,000,000",
+      "renew_price": "2,289,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".beauty",
+      "domain": "bartan.beauty",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "669,000",
+      "renew_price": "5,232,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".world",
+      "domain": "bartan.world",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "992,000",
+      "renew_price": "11,584,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".makeup",
+      "domain": "bartan.makeup",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "669,000",
+      "renew_price": "5,232,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".toys",
+      "domain": "bartan.toys",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "18,346,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".qpon",
+      "domain": "bartan.qpon",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "992,000",
+      "renew_price": "3,726,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".motorcycles",
+      "domain": "bartan.motorcycles",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "669,000",
+      "renew_price": "5,232,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".forum",
+      "domain": "bartan.forum",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "669,000",
+      "renew_price": "12,580,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".quest",
+      "domain": "bartan.quest",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "669,000",
+      "renew_price": "5,232,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".hair",
+      "domain": "bartan.hair",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "669,000",
+      "renew_price": "5,232,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".army",
+      "domain": "bartan.army",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,536,000",
+      "renew_price": "12,738,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".skin",
+      "domain": "bartan.skin",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "669,000",
+      "renew_price": "5,232,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".poker",
+      "domain": "bartan.poker",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,344,000",
+      "renew_price": "20,715,000",
+      "details": "NXDOMAIN",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".co.ir",
+      "domain": "bartan.co.ir",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "99,000",
+      "renew_price": "99,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".net.ir",
+      "domain": "bartan.net.ir",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "99,000",
+      "renew_price": "99,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".id.ir",
+      "domain": "bartan.id.ir",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "99,000",
+      "renew_price": "99,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".org.ir",
+      "domain": "bartan.org.ir",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "99,000",
+      "renew_price": "99,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".ac.ir",
+      "domain": "bartan.ac.ir",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "99,000",
+      "renew_price": "99,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".gov.ir",
+      "domain": "bartan.gov.ir",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "99,000",
+      "renew_price": "99,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".sch.ir",
+      "domain": "bartan.sch.ir",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "99,000",
+      "renew_price": "99,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".audio",
+      "domain": "bartan.audio",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "36,087,000",
+      "renew_price": "36,087,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".app",
+      "domain": "bartan.app",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "7,294,000",
+      "renew_price": "7,294,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".bayern",
+      "domain": "bartan.bayern",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "10,517,000",
+      "renew_price": "10,517,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".link",
+      "domain": "bartan.link",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,527,000",
+      "renew_price": "2,527,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".berlin",
+      "domain": "bartan.berlin",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "17,294,000",
+      "renew_price": "17,294,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".biz",
+      "domain": "bartan.biz",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,532,000",
+      "renew_price": "6,532,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".auto",
+      "domain": "bartan.auto",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "693,504,000",
+      "renew_price": "693,504,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".blackfriday",
+      "domain": "bartan.blackfriday",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "36,087,000",
+      "renew_price": "36,087,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".beer",
+      "domain": "bartan.beer",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,072,000",
+      "renew_price": "9,072,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".best",
+      "domain": "bartan.best",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,660,000",
+      "renew_price": "6,660,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".build",
+      "domain": "bartan.build",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,576,000",
+      "renew_price": "9,576,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".accountant",
+      "domain": "bartan.accountant",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,929,000",
+      "renew_price": "6,929,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".asia",
+      "domain": "bartan.asia",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,992,000",
+      "renew_price": "3,992,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".bible",
+      "domain": "bartan.bible",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "14,546,000",
+      "renew_price": "14,546,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".cars",
+      "domain": "bartan.cars",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "693,504,000",
+      "renew_price": "693,504,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".catering",
+      "domain": "bartan.catering",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "10,736,000",
+      "renew_price": "10,736,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".car",
+      "domain": "bartan.car",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "693,504,000",
+      "renew_price": "693,504,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".casa",
+      "domain": "bartan.casa",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,831,000",
+      "renew_price": "3,831,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".co.no",
+      "domain": "bartan.co.no",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,596,000",
+      "renew_price": "6,596,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".cologne",
+      "domain": "bartan.cologne",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "10,376,000",
+      "renew_price": "10,376,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".compare",
+      "domain": "bartan.compare",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,072,000",
+      "renew_price": "9,072,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".cleaning",
+      "domain": "bartan.cleaning",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "19,583,000",
+      "renew_price": "19,583,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".club",
+      "domain": "bartan.club",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,444,000",
+      "renew_price": "5,444,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".christmas",
+      "domain": "bartan.christmas",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "10,826,000",
+      "renew_price": "10,826,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".cc",
+      "domain": "bartan.cc",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,776,000",
+      "renew_price": "2,776,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".condos",
+      "domain": "bartan.condos",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "16,118,000",
+      "renew_price": "16,118,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".co",
+      "domain": "bartan.co",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,413,000",
+      "renew_price": "5,413,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".com.co",
+      "domain": "bartan.com.co",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,413,000",
+      "renew_price": "5,413,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".courses",
+      "domain": "bartan.courses",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "10,887,000",
+      "renew_price": "10,887,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".cooking",
+      "domain": "bartan.cooking",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,072,000",
+      "renew_price": "9,072,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".cricket",
+      "domain": "bartan.cricket",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,929,000",
+      "renew_price": "6,929,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".cymru",
+      "domain": "bartan.cymru",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,532,000",
+      "renew_price": "3,532,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".fashion",
+      "domain": "bartan.fashion",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,072,000",
+      "renew_price": "9,072,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".dev",
+      "domain": "bartan.dev",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,597,000",
+      "renew_price": "4,597,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".exposed",
+      "domain": "bartan.exposed",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,948,000",
+      "renew_price": "5,948,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".dental",
+      "domain": "bartan.dental",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "21,672,000",
+      "renew_price": "21,672,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".country",
+      "domain": "bartan.country",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "705,197,000",
+      "renew_price": "705,197,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".eco",
+      "domain": "bartan.eco",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "20,150,000",
+      "renew_price": "20,150,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".diet",
+      "domain": "bartan.diet",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "36,087,000",
+      "renew_price": "36,087,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".fans",
+      "domain": "bartan.fans",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,065,000",
+      "renew_price": "3,065,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".fit",
+      "domain": "bartan.fit",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,072,000",
+      "renew_price": "9,072,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".fm",
+      "domain": "bartan.fm",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "29,474,000",
+      "renew_price": "29,474,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".fishing",
+      "domain": "bartan.fishing",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,072,000",
+      "renew_price": "9,072,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".diamonds",
+      "domain": "bartan.diamonds",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "14,959,000",
+      "renew_price": "14,959,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".fyi",
+      "domain": "bartan.fyi",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,323,000",
+      "renew_price": "5,323,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".flowers",
+      "domain": "bartan.flowers",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "36,087,000",
+      "renew_price": "36,087,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".garden",
+      "domain": "bartan.garden",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,072,000",
+      "renew_price": "9,072,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".game",
+      "domain": "bartan.game",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "119,751,000",
+      "renew_price": "119,751,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".gallery",
+      "domain": "bartan.gallery",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "7,984,000",
+      "renew_price": "7,984,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".gd",
+      "domain": "bartan.gd",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,576,000",
+      "renew_price": "9,576,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".co.com",
+      "domain": "bartan.co.com",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,936,000",
+      "renew_price": "6,936,000",
+      "details": "RDAP 404",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".glass",
+      "domain": "bartan.glass",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "19,344,000",
+      "renew_price": "19,344,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".gift",
+      "domain": "bartan.gift",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,504,000",
+      "renew_price": "5,504,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".graphics",
+      "domain": "bartan.graphics",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,421,000",
+      "renew_price": "6,421,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".gratis",
+      "domain": "bartan.gratis",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,341,000",
+      "renew_price": "6,341,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".guitars",
+      "domain": "bartan.guitars",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "36,087,000",
+      "renew_price": "36,087,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".gmbh",
+      "domain": "bartan.gmbh",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "12,651,000",
+      "renew_price": "12,651,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".hamburg",
+      "domain": "bartan.hamburg",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "15,997,000",
+      "renew_price": "15,997,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".healthcare",
+      "domain": "bartan.healthcare",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "23,688,000",
+      "renew_price": "23,688,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".hiphop",
+      "domain": "bartan.hiphop",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "8,024,000",
+      "renew_price": "8,024,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".hiv",
+      "domain": "bartan.hiv",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "62,070,000",
+      "renew_price": "62,070,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".hospital",
+      "domain": "bartan.hospital",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "15,624,000",
+      "renew_price": "15,624,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".gripe",
+      "domain": "bartan.gripe",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,400,000",
+      "renew_price": "2,400,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".juegos",
+      "domain": "bartan.juegos",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "108,260,000",
+      "renew_price": "108,260,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".holdings",
+      "domain": "bartan.holdings",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "17,731,000",
+      "renew_price": "17,731,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".host",
+      "domain": "bartan.host",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "28,668,000",
+      "renew_price": "28,668,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".isla.pr",
+      "domain": "bartan.isla.pr",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,803,000",
+      "renew_price": "2,803,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".li",
+      "domain": "bartan.li",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,420,000",
+      "renew_price": "2,420,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".koeln",
+      "domain": "bartan.koeln",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "10,376,000",
+      "renew_price": "10,376,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".london",
+      "domain": "bartan.london",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "10,349,000",
+      "renew_price": "10,349,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".lc",
+      "domain": "bartan.lc",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,243,000",
+      "renew_price": "6,243,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".ltda",
+      "domain": "bartan.ltda",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,711,000",
+      "renew_price": "9,711,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".luxe",
+      "domain": "bartan.luxe",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,746,000",
+      "renew_price": "5,746,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".ink",
+      "domain": "bartan.ink",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,072,000",
+      "renew_price": "9,072,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".hosting",
+      "domain": "bartan.hosting",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "119,751,000",
+      "renew_price": "119,751,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".hu.net",
+      "domain": "bartan.hu.net",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,247,000",
+      "renew_price": "9,247,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".memorial",
+      "domain": "bartan.memorial",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "13,961,000",
+      "renew_price": "13,961,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".miami",
+      "domain": "bartan.miami",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,532,000",
+      "renew_price": "6,532,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".name",
+      "domain": "bartan.name",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,312,000",
+      "renew_price": "2,312,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".mex.com",
+      "domain": "bartan.mex.com",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,355,000",
+      "renew_price": "4,355,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".net.co",
+      "domain": "bartan.net.co",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,413,000",
+      "renew_price": "5,413,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".name.pr",
+      "domain": "bartan.name.pr",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "38,304,000",
+      "renew_price": "38,304,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".market",
+      "domain": "bartan.market",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "12,036,000",
+      "renew_price": "12,036,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".nrw",
+      "domain": "bartan.nrw",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "13,461,000",
+      "renew_price": "13,461,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".observer",
+      "domain": "bartan.observer",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,176,000",
+      "renew_price": "3,176,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".ooo",
+      "domain": "bartan.ooo",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "7,658,000",
+      "renew_price": "7,658,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".or.at",
+      "domain": "bartan.or.at",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,481,000",
+      "renew_price": "3,481,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".horse",
+      "domain": "bartan.horse",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,072,000",
+      "renew_price": "9,072,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".press",
+      "domain": "bartan.press",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "22,499,000",
+      "renew_price": "22,499,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".place",
+      "domain": "bartan.place",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,998,000",
+      "renew_price": "5,998,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".photo",
+      "domain": "bartan.photo",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,072,000",
+      "renew_price": "9,072,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".page",
+      "domain": "bartan.page",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,831,000",
+      "renew_price": "3,831,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".reise",
+      "domain": "bartan.reise",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "25,785,000",
+      "renew_price": "25,785,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".pub",
+      "domain": "bartan.pub",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "11,240,000",
+      "renew_price": "11,240,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".reisen",
+      "domain": "bartan.reisen",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,565,000",
+      "renew_price": "5,565,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".protection",
+      "domain": "bartan.protection",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "693,504,000",
+      "renew_price": "693,504,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".one",
+      "domain": "bartan.one",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "7,046,000",
+      "renew_price": "7,046,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".jpn.com",
+      "domain": "bartan.jpn.com",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "11,492,000",
+      "renew_price": "11,492,000",
+      "details": "RDAP 404",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".sarl",
+      "domain": "bartan.sarl",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "2,400,000",
+      "renew_price": "2,400,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".ruhr",
+      "domain": "bartan.ruhr",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "8,041,000",
+      "renew_price": "8,041,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".saarland",
+      "domain": "bartan.saarland",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "7,994,000",
+      "renew_price": "7,994,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".sc",
+      "domain": "bartan.sc",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "30,039,000",
+      "renew_price": "30,039,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".security",
+      "domain": "bartan.security",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "693,504,000",
+      "renew_price": "693,504,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".ph",
+      "domain": "bartan.ph",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "15,322,000",
+      "renew_price": "15,322,000",
+      "details": "RDAP 404",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".study",
+      "domain": "bartan.study",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "10,887,000",
+      "renew_price": "10,887,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".supply",
+      "domain": "bartan.supply",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "7,107,000",
+      "renew_price": "7,107,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".srl",
+      "domain": "bartan.srl",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,015,000",
+      "renew_price": "9,015,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".storage",
+      "domain": "bartan.storage",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "191,520,000",
+      "renew_price": "191,520,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".supplies",
+      "domain": "bartan.supplies",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,754,000",
+      "renew_price": "6,754,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".select",
+      "domain": "bartan.select",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,072,000",
+      "renew_price": "9,072,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".rodeo",
+      "domain": "bartan.rodeo",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,629,000",
+      "renew_price": "3,629,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".surgery",
+      "domain": "bartan.surgery",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "14,848,000",
+      "renew_price": "14,848,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".tel",
+      "domain": "bartan.tel",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,122,000",
+      "renew_price": "3,122,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".surf",
+      "domain": "bartan.surf",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,072,000",
+      "renew_price": "9,072,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".tattoo",
+      "domain": "bartan.tattoo",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "10,826,000",
+      "renew_price": "10,826,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".theatre",
+      "domain": "bartan.theatre",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "173,376,000",
+      "renew_price": "173,376,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".tennis",
+      "domain": "bartan.tennis",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "17,640,000",
+      "renew_price": "17,640,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".tickets",
+      "domain": "bartan.tickets",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "136,080,000",
+      "renew_price": "136,080,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".tube",
+      "domain": "bartan.tube",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "7,661,000",
+      "renew_price": "7,661,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".uno",
+      "domain": "bartan.uno",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "7,258,000",
+      "renew_price": "7,258,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".viajes",
+      "domain": "bartan.viajes",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "12,207,000",
+      "renew_price": "12,207,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".vip",
+      "domain": "bartan.vip",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "5,444,000",
+      "renew_price": "5,444,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".wedding",
+      "domain": "bartan.wedding",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,072,000",
+      "renew_price": "9,072,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".wales",
+      "domain": "bartan.wales",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,532,000",
+      "renew_price": "3,532,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".vet",
+      "domain": "bartan.vet",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "11,280,000",
+      "renew_price": "11,280,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".wiki",
+      "domain": "bartan.wiki",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,072,000",
+      "renew_price": "9,072,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".tv",
+      "domain": "bartan.tv",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "8,669,000",
+      "renew_price": "8,669,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".work",
+      "domain": "bartan.work",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "3,629,000",
+      "renew_price": "3,629,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".wien",
+      "domain": "bartan.wien",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "13,461,000",
+      "renew_price": "13,461,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".how",
+      "domain": "bartan.how",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "8,064,000",
+      "renew_price": "8,064,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".yoga",
+      "domain": "bartan.yoga",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "9,072,000",
+      "renew_price": "9,072,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".soy",
+      "domain": "bartan.soy",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "7,258,000",
+      "renew_price": "7,258,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".airforce",
+      "domain": "bartan.airforce",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "32,055,000",
+      "renew_price": "32,055,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".lawyer",
+      "domain": "bartan.lawyer",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "18,538,000",
+      "renew_price": "18,538,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".ai",
+      "domain": "bartan.ai",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "34,192,000",
+      "renew_price": "34,192,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".net.ai",
+      "domain": "bartan.net.ai",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "34,192,000",
+      "renew_price": "34,192,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".contact",
+      "domain": "bartan.contact",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "4,133,000",
+      "renew_price": "4,133,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".feedback",
+      "domain": "bartan.feedback",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "105,840,000",
+      "renew_price": "105,840,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".jobs",
+      "domain": "bartan.jobs",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "59,472,000",
+      "renew_price": "59,472,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".navy",
+      "domain": "bartan.navy",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "12,832,000",
+      "renew_price": "12,832,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".dentist",
+      "domain": "bartan.dentist",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "18,386,000",
+      "renew_price": "18,386,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".kids",
+      "domain": "bartan.kids",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "6,895,000",
+      "renew_price": "6,895,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".ws",
+      "domain": "bartan.ws",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "8,649,000",
+      "renew_price": "8,649,000",
+      "details": "RDAP 404",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".attorney",
+      "domain": "bartan.attorney",
+      "status": "آزاد (قابل خرید)",
+      "is_available": true,
+      "price": "18,538,000",
+      "renew_price": "18,538,000",
+      "details": "NXDOMAIN",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    }
+  ],
+  "taken": [
+    {
+      "tld": ".store",
+      "domain": "bartan.store",
+      "status": "ثبت‌شده (غیرقابل ثبت)",
+      "is_available": false,
+      "price": "992,000",
+      "renew_price": "15,851,000",
+      "details": "Active NS: ns52.domaincontrol.com.",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".online",
+      "domain": "bartan.online",
+      "status": "ثبت‌شده (غیرقابل ثبت)",
+      "is_available": false,
+      "price": "1,388,000",
+      "renew_price": "10,379,000",
+      "details": "Active NS: ns22.domaincontrol.com.",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".xyz",
+      "domain": "bartan.xyz",
+      "status": "ثبت‌شده (غیرقابل ثبت)",
+      "is_available": false,
+      "price": "1,367,000",
+      "renew_price": "5,232,000",
+      "details": "Active NS: ns5.afternic.com.",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".shop",
+      "domain": "bartan.shop",
+      "status": "ثبت‌شده (غیرقابل ثبت)",
+      "is_available": false,
+      "price": "706,000",
+      "renew_price": "11,008,000",
+      "details": "Active NS: rick.ns.cloudflare.com.",
+      "renew_note": "نرخ تمدید پس از تخفیف سال اول"
+    },
+    {
+      "tld": ".ir",
+      "domain": "bartan.ir",
+      "status": "ثبت‌شده (غیرقابل ثبت)",
+      "is_available": false,
+      "price": "99,000",
+      "renew_price": "99,000",
+      "details": "ثبت شده در ایرنیک (IRNIC)",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".net",
+      "domain": "bartan.net",
+      "status": "ثبت‌شده (غیرقابل ثبت)",
+      "is_available": false,
+      "price": "4,163,000",
+      "renew_price": "4,163,000",
+      "details": "Active NS: dns3.name-services.com.",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".org",
+      "domain": "bartan.org",
+      "status": "ثبت‌شده (غیرقابل ثبت)",
+      "is_available": false,
+      "price": "3,699,000",
+      "renew_price": "3,699,000",
+      "details": "Active NS: dns1.registrar-servers.com.",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".com",
+      "domain": "bartan.com",
+      "status": "ثبت‌شده (غیرقابل ثبت)",
+      "is_available": false,
+      "price": "3,015,000",
+      "renew_price": "3,015,000",
+      "details": "Active NS: ns-1178.awsdns-19.org.",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    },
+    {
+      "tld": ".design",
+      "domain": "bartan.design",
+      "status": "ثبت‌شده (غیرقابل ثبت)",
+      "is_available": false,
+      "price": "16,330,000",
+      "renew_price": "16,330,000",
+      "details": "Active NS: ns76.domaincontrol.com.",
+      "renew_note": "مشابه نرخ ثبت (فاقد تخفیف سال اول)"
+    }
+  ]
+}
